@@ -1,0 +1,559 @@
+edad;genero;region;confirmado;condicion;;edad;genero;region;confirmado;condicion
+27;femenino;Arica  y  Parinacota;negativo;vive;;27;0;Arica  y  Parinacota;0;0
+58;masculino;Tarapaca;negativo;vive;;58;1;Tarapaca;0;0
+71;masculino;Antofagasta;positivo;vive;;71;1;Antofagasta;1;0
+31;masculino;Atacama;positivo;fallece;;31;1;Atacama;1;1
+70;masculino;Coquimbo;positivo;vive;;70;1;Coquimbo;1;0
+79;femenino;Valparaiso;negativo;vive;;79;0;Valparaiso;0;0
+20;femenino;Metropolitana;positivo;fallece;;20;0;Metropolitana;1;1
+18;masculino;O'Higgins;positivo;vive;;18;1;O'Higgins;1;0
+35;femenino;Maule;positivo;fallece;;35;0;Maule;1;1
+71;masculino;Nuble;positivo;vive;;71;1;Nuble;1;0
+44;masculino;Biobio;positivo;vive;;44;1;Biobio;1;0
+25;masculino;Araucania;negativo;vive;;25;1;Araucania;0;0
+41;masculino;Los  Rios;negativo;vive;;41;1;Los  Rios;0;0
+42;masculino;Los  Lagos;negativo;vive;;42;1;Los  Lagos;0;0
+64;masculino;Aysen;negativo;vive;;64;1;Aysen;0;0
+64;femenino;Magallanes;negativo;vive;;64;0;Magallanes;0;0
+28;femenino;Arica  y  Parinacota;negativo;vive;;28;0;Arica  y  Parinacota;0;0
+41;masculino;Tarapaca;negativo;vive;;41;1;Tarapaca;0;0
+24;masculino;Antofagasta;negativo;vive;;24;1;Antofagasta;0;0
+34;femenino;Atacama;positivo;fallece;;34;0;Atacama;1;1
+54;femenino;Coquimbo;negativo;vive;;54;0;Coquimbo;0;0
+24;femenino;Valparaiso;positivo;fallece;;24;0;Valparaiso;1;1
+26;femenino;Metropolitana;positivo;vive;;26;0;Metropolitana;1;0
+59;masculino;O'Higgins;positivo;fallece;;59;1;O'Higgins;1;1
+45;femenino;Maule;positivo;vive;;45;0;Maule;1;0
+25;masculino;Nuble;positivo;vive;;25;1;Nuble;1;0
+61;masculino;Biobio;negativo;vive;;61;1;Biobio;0;0
+75;masculino;Araucania;positivo;vive;;75;1;Araucania;1;0
+34;femenino;Los  Rios;positivo;fallece;;34;0;Los  Rios;1;1
+52;femenino;Los  Lagos;positivo;vive;;52;0;Los  Lagos;1;0
+47;femenino;Aysen;negativo;vive;;47;0;Aysen;0;0
+18;masculino;Magallanes;negativo;vive;;18;1;Magallanes;0;0
+49;masculino;Arica  y  Parinacota;positivo;vive;;49;1;Arica  y  Parinacota;1;0
+34;masculino;Tarapaca;positivo;fallece;;34;1;Tarapaca;1;1
+72;masculino;Antofagasta;negativo;vive;;72;1;Antofagasta;0;0
+64;femenino;Atacama;negativo;vive;;64;0;Atacama;0;0
+37;masculino;Coquimbo;negativo;vive;;37;1;Coquimbo;0;0
+22;masculino;Valparaiso;positivo;fallece;;22;1;Valparaiso;1;1
+31;masculino;Metropolitana;negativo;vive;;31;1;Metropolitana;0;0
+18;femenino;O'Higgins;positivo;vive;;18;0;O'Higgins;1;0
+29;femenino;Maule;negativo;vive;;29;0;Maule;0;0
+40;masculino;Nuble;negativo;vive;;40;1;Nuble;0;0
+68;masculino;Biobio;negativo;vive;;68;1;Biobio;0;0
+77;femenino;Araucania;positivo;vive;;77;0;Araucania;1;0
+23;masculino;Los  Rios;negativo;vive;;23;1;Los  Rios;0;0
+46;femenino;Los  Lagos;negativo;vive;;46;0;Los  Lagos;0;0
+69;masculino;Aysen;negativo;vive;;69;1;Aysen;0;0
+69;femenino;Magallanes;negativo;vive;;69;0;Magallanes;0;0
+32;femenino;Arica  y  Parinacota;negativo;vive;;32;0;Arica  y  Parinacota;0;0
+22;masculino;Tarapaca;negativo;vive;;22;1;Tarapaca;0;0
+18;masculino;Antofagasta;negativo;vive;;18;1;Antofagasta;0;0
+50;masculino;Atacama;positivo;fallece;;50;1;Atacama;1;1
+18;masculino;Coquimbo;positivo;vive;;18;1;Coquimbo;1;0
+42;masculino;Valparaiso;positivo;fallece;;42;1;Valparaiso;1;1
+73;femenino;Metropolitana;positivo;fallece;;73;0;Metropolitana;1;1
+67;masculino;O'Higgins;positivo;vive;;67;1;O'Higgins;1;0
+31;masculino;Maule;positivo;fallece;;31;1;Maule;1;1
+62;femenino;Nuble;negativo;vive;;62;0;Nuble;0;0
+49;femenino;Biobio;positivo;fallece;;49;0;Biobio;1;1
+72;masculino;Araucania;negativo;vive;;72;1;Araucania;0;0
+37;masculino;Los  Rios;positivo;vive;;37;1;Los  Rios;1;0
+71;femenino;Los  Lagos;negativo;vive;;71;0;Los  Lagos;0;0
+54;femenino;Aysen;positivo;fallece;;54;0;Aysen;1;1
+34;femenino;Magallanes;positivo;fallece;;34;0;Magallanes;1;1
+55;femenino;Arica  y  Parinacota;positivo;vive;;55;0;Arica  y  Parinacota;1;0
+28;masculino;Tarapaca;positivo;vive;;28;1;Tarapaca;1;0
+50;masculino;Antofagasta;positivo;fallece;;50;1;Antofagasta;1;1
+43;masculino;Atacama;negativo;vive;;43;1;Atacama;0;0
+52;masculino;Coquimbo;positivo;vive;;52;1;Coquimbo;1;0
+27;masculino;Valparaiso;positivo;fallece;;27;1;Valparaiso;1;1
+33;femenino;Metropolitana;positivo;fallece;;33;0;Metropolitana;1;1
+34;femenino;O'Higgins;negativo;vive;;34;0;O'Higgins;0;0
+24;femenino;Maule;positivo;vive;;24;0;Maule;1;0
+22;masculino;Nuble;positivo;fallece;;22;1;Nuble;1;1
+68;masculino;Biobio;negativo;vive;;68;1;Biobio;0;0
+40;masculino;Araucania;negativo;vive;;40;1;Araucania;0;0
+39;femenino;Los  Rios;negativo;vive;;39;0;Los  Rios;0;0
+53;femenino;Los  Lagos;negativo;vive;;53;0;Los  Lagos;0;0
+27;masculino;Aysen;positivo;vive;;27;1;Aysen;1;0
+59;femenino;Magallanes;negativo;vive;;59;0;Magallanes;0;0
+34;femenino;Arica  y  Parinacota;positivo;vive;;34;0;Arica  y  Parinacota;1;0
+18;femenino;Tarapaca;negativo;vive;;18;0;Tarapaca;0;0
+28;femenino;Antofagasta;positivo;vive;;28;0;Antofagasta;1;0
+70;femenino;Atacama;negativo;vive;;70;0;Atacama;0;0
+35;femenino;Coquimbo;positivo;vive;;35;0;Coquimbo;1;0
+58;femenino;Valparaiso;negativo;vive;;58;0;Valparaiso;0;0
+39;masculino;Metropolitana;negativo;vive;;39;1;Metropolitana;0;0
+41;masculino;O'Higgins;positivo;vive;;41;1;O'Higgins;1;0
+47;masculino;Maule;positivo;fallece;;47;1;Maule;1;1
+22;femenino;Nuble;positivo;fallece;;22;0;Nuble;1;1
+64;femenino;Biobio;positivo;fallece;;64;0;Biobio;1;1
+75;masculino;Araucania;negativo;vive;;75;1;Araucania;0;0
+61;femenino;Los  Rios;positivo;fallece;;61;0;Los  Rios;1;1
+73;masculino;Los  Lagos;negativo;vive;;73;1;Los  Lagos;0;0
+18;masculino;Aysen;positivo;vive;;18;1;Aysen;1;0
+35;masculino;Magallanes;negativo;vive;;35;1;Magallanes;0;0
+79;femenino;Arica  y  Parinacota;positivo;fallece;;79;0;Arica  y  Parinacota;1;1
+31;femenino;Tarapaca;positivo;vive;;31;0;Tarapaca;1;0
+45;masculino;Antofagasta;positivo;vive;;45;1;Antofagasta;1;0
+29;femenino;Atacama;negativo;vive;;29;0;Atacama;0;0
+47;masculino;Coquimbo;negativo;vive;;47;1;Coquimbo;0;0
+18;femenino;Valparaiso;positivo;vive;;18;0;Valparaiso;1;0
+31;femenino;Metropolitana;negativo;vive;;31;0;Metropolitana;0;0
+49;femenino;O'Higgins;negativo;vive;;49;0;O'Higgins;0;0
+20;femenino;Maule;negativo;vive;;20;0;Maule;0;0
+31;masculino;Nuble;positivo;fallece;;31;1;Nuble;1;1
+78;femenino;Biobio;positivo;vive;;78;0;Biobio;1;0
+79;femenino;Araucania;negativo;vive;;79;0;Araucania;0;0
+72;femenino;Los  Rios;positivo;vive;;72;0;Los  Rios;1;0
+79;femenino;Los  Lagos;positivo;vive;;79;0;Los  Lagos;1;0
+72;femenino;Aysen;positivo;fallece;;72;0;Aysen;1;1
+27;femenino;Magallanes;positivo;vive;;27;0;Magallanes;1;0
+75;femenino;Arica  y  Parinacota;positivo;fallece;;75;0;Arica  y  Parinacota;1;1
+28;femenino;Tarapaca;negativo;vive;;28;0;Tarapaca;0;0
+63;masculino;Antofagasta;positivo;fallece;;63;1;Antofagasta;1;1
+55;masculino;Atacama;negativo;vive;;55;1;Atacama;0;0
+68;masculino;Coquimbo;positivo;vive;;68;1;Coquimbo;1;0
+38;masculino;Valparaiso;negativo;vive;;38;1;Valparaiso;0;0
+33;femenino;Metropolitana;negativo;vive;;33;0;Metropolitana;0;0
+59;femenino;O'Higgins;negativo;vive;;59;0;O'Higgins;0;0
+74;masculino;Maule;positivo;fallece;;74;1;Maule;1;1
+21;masculino;Nuble;negativo;vive;;21;1;Nuble;0;0
+27;masculino;Biobio;positivo;vive;;27;1;Biobio;1;0
+45;masculino;Araucania;positivo;fallece;;45;1;Araucania;1;1
+79;masculino;Los  Rios;positivo;vive;;79;1;Los  Rios;1;0
+65;femenino;Los  Lagos;positivo;vive;;65;0;Los  Lagos;1;0
+25;masculino;Aysen;negativo;vive;;25;1;Aysen;0;0
+19;femenino;Magallanes;negativo;vive;;19;0;Magallanes;0;0
+39;femenino;Arica  y  Parinacota;positivo;fallece;;39;0;Arica  y  Parinacota;1;1
+69;masculino;Tarapaca;negativo;vive;;69;1;Tarapaca;0;0
+34;masculino;Antofagasta;negativo;vive;;34;1;Antofagasta;0;0
+57;femenino;Atacama;negativo;vive;;57;0;Atacama;0;0
+42;femenino;Coquimbo;positivo;vive;;42;0;Coquimbo;1;0
+24;femenino;Valparaiso;positivo;vive;;24;0;Valparaiso;1;0
+53;masculino;Metropolitana;negativo;vive;;53;1;Metropolitana;0;0
+80;masculino;O'Higgins;negativo;vive;;80;1;O'Higgins;0;0
+71;masculino;Maule;positivo;vive;;71;1;Maule;1;0
+77;femenino;Nuble;negativo;vive;;77;0;Nuble;0;0
+74;femenino;Biobio;negativo;vive;;74;0;Biobio;0;0
+67;masculino;Araucania;negativo;vive;;67;1;Araucania;0;0
+26;femenino;Los  Rios;positivo;fallece;;26;0;Los  Rios;1;1
+53;femenino;Los  Lagos;positivo;fallece;;53;0;Los  Lagos;1;1
+34;femenino;Aysen;positivo;vive;;34;0;Aysen;1;0
+60;masculino;Magallanes;positivo;fallece;;60;1;Magallanes;1;1
+40;masculino;Arica  y  Parinacota;positivo;vive;;40;1;Arica  y  Parinacota;1;0
+42;masculino;Tarapaca;positivo;fallece;;42;1;Tarapaca;1;1
+60;femenino;Antofagasta;negativo;vive;;60;0;Antofagasta;0;0
+42;femenino;Atacama;negativo;vive;;42;0;Atacama;0;0
+49;masculino;Coquimbo;negativo;vive;;49;1;Coquimbo;0;0
+21;femenino;Valparaiso;positivo;vive;;21;0;Valparaiso;1;0
+24;femenino;Metropolitana;negativo;vive;;24;0;Metropolitana;0;0
+32;masculino;O'Higgins;positivo;vive;;32;1;O'Higgins;1;0
+77;femenino;Maule;positivo;vive;;77;0;Maule;1;0
+66;femenino;Nuble;negativo;vive;;66;0;Nuble;0;0
+32;femenino;Biobio;positivo;fallece;;32;0;Biobio;1;1
+32;masculino;Araucania;positivo;vive;;32;1;Araucania;1;0
+76;femenino;Los  Rios;negativo;vive;;76;0;Los  Rios;0;0
+59;femenino;Los  Lagos;negativo;vive;;59;0;Los  Lagos;0;0
+34;masculino;Aysen;positivo;fallece;;34;1;Aysen;1;1
+80;masculino;Magallanes;positivo;vive;;80;1;Magallanes;1;0
+79;masculino;Arica  y  Parinacota;positivo;fallece;;79;1;Arica  y  Parinacota;1;1
+31;femenino;Tarapaca;positivo;vive;;31;0;Tarapaca;1;0
+62;femenino;Antofagasta;negativo;vive;;62;0;Antofagasta;0;0
+76;masculino;Atacama;negativo;vive;;76;1;Atacama;0;0
+55;masculino;Coquimbo;negativo;vive;;55;1;Coquimbo;0;0
+40;masculino;Valparaiso;positivo;vive;;40;1;Valparaiso;1;0
+43;masculino;Metropolitana;positivo;vive;;43;1;Metropolitana;1;0
+74;femenino;O'Higgins;negativo;vive;;74;0;O'Higgins;0;0
+33;masculino;Maule;positivo;fallece;;33;1;Maule;1;1
+29;femenino;Nuble;positivo;vive;;29;0;Nuble;1;0
+33;masculino;Biobio;negativo;vive;;33;1;Biobio;0;0
+40;femenino;Araucania;negativo;vive;;40;0;Araucania;0;0
+59;masculino;Los  Rios;negativo;vive;;59;1;Los  Rios;0;0
+64;femenino;Los  Lagos;negativo;vive;;64;0;Los  Lagos;0;0
+71;masculino;Aysen;positivo;fallece;;71;1;Aysen;1;1
+21;masculino;Magallanes;negativo;vive;;21;1;Magallanes;0;0
+51;femenino;Arica  y  Parinacota;negativo;vive;;51;0;Arica  y  Parinacota;0;0
+61;masculino;Tarapaca;negativo;vive;;61;1;Tarapaca;0;0
+26;masculino;Antofagasta;positivo;vive;;26;1;Antofagasta;1;0
+52;masculino;Atacama;positivo;vive;;52;1;Atacama;1;0
+21;femenino;Coquimbo;positivo;fallece;;21;0;Coquimbo;1;1
+65;masculino;Valparaiso;negativo;vive;;65;1;Valparaiso;0;0
+74;masculino;Metropolitana;negativo;vive;;74;1;Metropolitana;0;0
+21;femenino;O'Higgins;positivo;fallece;;21;0;O'Higgins;1;1
+51;femenino;Maule;negativo;vive;;51;0;Maule;0;0
+68;femenino;Nuble;negativo;vive;;68;0;Nuble;0;0
+34;femenino;Biobio;positivo;vive;;34;0;Biobio;1;0
+18;masculino;Araucania;negativo;vive;;18;1;Araucania;0;0
+73;masculino;Los  Rios;positivo;vive;;73;1;Los  Rios;1;0
+52;femenino;Los  Lagos;positivo;vive;;52;0;Los  Lagos;1;0
+68;masculino;Aysen;negativo;vive;;68;1;Aysen;0;0
+29;femenino;Magallanes;positivo;fallece;;29;0;Magallanes;1;1
+31;masculino;Arica  y  Parinacota;negativo;vive;;31;1;Arica  y  Parinacota;0;0
+75;masculino;Tarapaca;positivo;fallece;;75;1;Tarapaca;1;1
+44;femenino;Antofagasta;positivo;fallece;;44;0;Antofagasta;1;1
+79;femenino;Atacama;positivo;fallece;;79;0;Atacama;1;1
+40;femenino;Coquimbo;negativo;vive;;40;0;Coquimbo;0;0
+26;femenino;Valparaiso;positivo;fallece;;26;0;Valparaiso;1;1
+31;femenino;Metropolitana;negativo;vive;;31;0;Metropolitana;0;0
+37;masculino;O'Higgins;positivo;vive;;37;1;O'Higgins;1;0
+40;femenino;Maule;positivo;vive;;40;0;Maule;1;0
+22;masculino;Nuble;negativo;vive;;22;1;Nuble;0;0
+77;femenino;Biobio;positivo;vive;;77;0;Biobio;1;0
+19;masculino;Araucania;positivo;vive;;19;1;Araucania;1;0
+66;masculino;Los  Rios;positivo;vive;;66;1;Los  Rios;1;0
+47;masculino;Los  Lagos;negativo;vive;;47;1;Los  Lagos;0;0
+21;masculino;Aysen;negativo;vive;;21;1;Aysen;0;0
+77;femenino;Magallanes;positivo;vive;;77;0;Magallanes;1;0
+60;femenino;Arica  y  Parinacota;negativo;vive;;60;0;Arica  y  Parinacota;0;0
+21;femenino;Tarapaca;positivo;vive;;21;0;Tarapaca;1;0
+76;femenino;Antofagasta;negativo;vive;;76;0;Antofagasta;0;0
+33;masculino;Atacama;negativo;vive;;33;1;Atacama;0;0
+20;masculino;Coquimbo;negativo;vive;;20;1;Coquimbo;0;0
+55;masculino;Valparaiso;positivo;vive;;55;1;Valparaiso;1;0
+65;femenino;Metropolitana;negativo;vive;;65;0;Metropolitana;0;0
+36;masculino;O'Higgins;negativo;vive;;36;1;O'Higgins;0;0
+69;femenino;Maule;positivo;vive;;69;0;Maule;1;0
+62;femenino;Nuble;positivo;fallece;;62;0;Nuble;1;1
+25;masculino;Biobio;negativo;vive;;25;1;Biobio;0;0
+19;masculino;Araucania;positivo;vive;;19;1;Araucania;1;0
+74;femenino;Los  Rios;positivo;fallece;;74;0;Los  Rios;1;1
+74;femenino;Los  Lagos;positivo;vive;;74;0;Los  Lagos;1;0
+57;masculino;Aysen;positivo;vive;;57;1;Aysen;1;0
+70;femenino;Magallanes;negativo;vive;;70;0;Magallanes;0;0
+35;femenino;Arica  y  Parinacota;negativo;vive;;35;0;Arica  y  Parinacota;0;0
+18;femenino;Tarapaca;negativo;vive;;18;0;Tarapaca;0;0
+48;femenino;Antofagasta;negativo;vive;;48;0;Antofagasta;0;0
+61;masculino;Atacama;positivo;fallece;;61;1;Atacama;1;1
+49;femenino;Coquimbo;positivo;fallece;;49;0;Coquimbo;1;1
+60;femenino;Valparaiso;negativo;vive;;60;0;Valparaiso;0;0
+22;femenino;Metropolitana;negativo;vive;;22;0;Metropolitana;0;0
+78;femenino;O'Higgins;negativo;vive;;78;0;O'Higgins;0;0
+41;femenino;Maule;negativo;vive;;41;0;Maule;0;0
+76;masculino;Nuble;positivo;fallece;;76;1;Nuble;1;1
+21;masculino;Biobio;negativo;vive;;21;1;Biobio;0;0
+19;masculino;Araucania;positivo;fallece;;19;1;Araucania;1;1
+48;femenino;Los  Rios;negativo;vive;;48;0;Los  Rios;0;0
+45;femenino;Los  Lagos;positivo;vive;;45;0;Los  Lagos;1;0
+74;masculino;Aysen;negativo;vive;;74;1;Aysen;0;0
+21;femenino;Magallanes;negativo;vive;;21;0;Magallanes;0;0
+42;masculino;Arica  y  Parinacota;positivo;fallece;;42;1;Arica  y  Parinacota;1;1
+72;masculino;Tarapaca;positivo;fallece;;72;1;Tarapaca;1;1
+46;femenino;Antofagasta;negativo;vive;;46;0;Antofagasta;0;0
+40;femenino;Atacama;positivo;fallece;;40;0;Atacama;1;1
+27;masculino;Coquimbo;negativo;vive;;27;1;Coquimbo;0;0
+46;femenino;Valparaiso;positivo;fallece;;46;0;Valparaiso;1;1
+31;femenino;Metropolitana;positivo;fallece;;31;0;Metropolitana;1;1
+31;masculino;O'Higgins;negativo;vive;;31;1;O'Higgins;0;0
+33;masculino;Maule;negativo;vive;;33;1;Maule;0;0
+61;femenino;Nuble;negativo;vive;;61;0;Nuble;0;0
+72;masculino;Biobio;negativo;vive;;72;1;Biobio;0;0
+75;masculino;Araucania;negativo;vive;;75;1;Araucania;0;0
+74;masculino;Los  Rios;negativo;vive;;74;1;Los  Rios;0;0
+44;femenino;Los  Lagos;positivo;fallece;;44;0;Los  Lagos;1;1
+19;masculino;Aysen;positivo;vive;;19;1;Aysen;1;0
+52;femenino;Magallanes;positivo;vive;;52;0;Magallanes;1;0
+29;femenino;Arica  y  Parinacota;positivo;fallece;;29;0;Arica  y  Parinacota;1;1
+61;masculino;Tarapaca;negativo;vive;;61;1;Tarapaca;0;0
+23;masculino;Antofagasta;positivo;vive;;23;1;Antofagasta;1;0
+64;femenino;Atacama;positivo;vive;;64;0;Atacama;1;0
+56;masculino;Coquimbo;positivo;vive;;56;1;Coquimbo;1;0
+61;masculino;Valparaiso;positivo;fallece;;61;1;Valparaiso;1;1
+63;femenino;Metropolitana;negativo;vive;;63;0;Metropolitana;0;0
+30;femenino;O'Higgins;positivo;vive;;30;0;O'Higgins;1;0
+75;femenino;Maule;positivo;vive;;75;0;Maule;1;0
+32;femenino;Nuble;positivo;fallece;;32;0;Nuble;1;1
+50;femenino;Biobio;negativo;vive;;50;0;Biobio;0;0
+31;femenino;Araucania;negativo;vive;;31;0;Araucania;0;0
+36;masculino;Los  Rios;negativo;vive;;36;1;Los  Rios;0;0
+61;femenino;Los  Lagos;positivo;vive;;61;0;Los  Lagos;1;0
+62;femenino;Aysen;negativo;vive;;62;0;Aysen;0;0
+24;masculino;Magallanes;negativo;vive;;24;1;Magallanes;0;0
+57;femenino;Arica  y  Parinacota;positivo;vive;;57;0;Arica  y  Parinacota;1;0
+53;femenino;Tarapaca;negativo;vive;;53;0;Tarapaca;0;0
+20;masculino;Antofagasta;positivo;vive;;20;1;Antofagasta;1;0
+51;femenino;Atacama;positivo;vive;;51;0;Atacama;1;0
+61;femenino;Coquimbo;positivo;vive;;61;0;Coquimbo;1;0
+49;femenino;Valparaiso;negativo;vive;;49;0;Valparaiso;0;0
+48;masculino;Metropolitana;negativo;vive;;48;1;Metropolitana;0;0
+65;femenino;O'Higgins;negativo;vive;;65;0;O'Higgins;0;0
+52;femenino;Maule;positivo;vive;;52;0;Maule;1;0
+65;masculino;Nuble;negativo;vive;;65;1;Nuble;0;0
+55;masculino;Biobio;negativo;vive;;55;1;Biobio;0;0
+21;femenino;Araucania;negativo;vive;;21;0;Araucania;0;0
+67;femenino;Los  Rios;negativo;vive;;67;0;Los  Rios;0;0
+48;femenino;Los  Lagos;positivo;vive;;48;0;Los  Lagos;1;0
+21;masculino;Aysen;positivo;fallece;;21;1;Aysen;1;1
+55;femenino;Magallanes;positivo;fallece;;55;0;Magallanes;1;1
+46;masculino;Arica  y  Parinacota;negativo;vive;;46;1;Arica  y  Parinacota;0;0
+64;masculino;Tarapaca;positivo;vive;;64;1;Tarapaca;1;0
+32;masculino;Antofagasta;negativo;vive;;32;1;Antofagasta;0;0
+34;femenino;Atacama;negativo;vive;;34;0;Atacama;0;0
+46;femenino;Coquimbo;negativo;vive;;46;0;Coquimbo;0;0
+59;masculino;Valparaiso;positivo;vive;;59;1;Valparaiso;1;0
+66;masculino;Metropolitana;positivo;fallece;;66;1;Metropolitana;1;1
+29;femenino;O'Higgins;positivo;vive;;29;0;O'Higgins;1;0
+45;masculino;Maule;negativo;vive;;45;1;Maule;0;0
+74;masculino;Nuble;negativo;vive;;74;1;Nuble;0;0
+52;femenino;Biobio;positivo;fallece;;52;0;Biobio;1;1
+59;masculino;Araucania;positivo;fallece;;59;1;Araucania;1;1
+46;femenino;Los  Rios;negativo;vive;;46;0;Los  Rios;0;0
+33;femenino;Los  Lagos;positivo;fallece;;33;0;Los  Lagos;1;1
+36;masculino;Aysen;positivo;fallece;;36;1;Aysen;1;1
+27;femenino;Magallanes;negativo;vive;;27;0;Magallanes;0;0
+66;femenino;Arica  y  Parinacota;positivo;vive;;66;0;Arica  y  Parinacota;1;0
+72;femenino;Tarapaca;positivo;vive;;72;0;Tarapaca;1;0
+48;femenino;Antofagasta;negativo;vive;;48;0;Antofagasta;0;0
+18;femenino;Atacama;negativo;vive;;18;0;Atacama;0;0
+27;femenino;Coquimbo;negativo;vive;;27;0;Coquimbo;0;0
+55;femenino;Valparaiso;positivo;vive;;55;0;Valparaiso;1;0
+18;femenino;Metropolitana;negativo;vive;;18;0;Metropolitana;0;0
+32;masculino;O'Higgins;positivo;vive;;32;1;O'Higgins;1;0
+21;masculino;Maule;negativo;vive;;21;1;Maule;0;0
+46;femenino;Nuble;negativo;vive;;46;0;Nuble;0;0
+19;femenino;Biobio;negativo;vive;;19;0;Biobio;0;0
+33;masculino;Araucania;negativo;vive;;33;1;Araucania;0;0
+53;femenino;Los  Rios;positivo;fallece;;53;0;Los  Rios;1;1
+42;masculino;Los  Lagos;negativo;vive;;42;1;Los  Lagos;0;0
+56;femenino;Aysen;negativo;vive;;56;0;Aysen;0;0
+50;masculino;Magallanes;negativo;vive;;50;1;Magallanes;0;0
+19;masculino;Arica  y  Parinacota;negativo;vive;;19;1;Arica  y  Parinacota;0;0
+75;masculino;Tarapaca;positivo;vive;;75;1;Tarapaca;1;0
+42;masculino;Antofagasta;negativo;vive;;42;1;Antofagasta;0;0
+66;femenino;Atacama;positivo;fallece;;66;0;Atacama;1;1
+47;masculino;Coquimbo;negativo;vive;;47;1;Coquimbo;0;0
+72;masculino;Valparaiso;positivo;fallece;;72;1;Valparaiso;1;1
+68;femenino;Metropolitana;positivo;fallece;;68;0;Metropolitana;1;1
+33;masculino;O'Higgins;negativo;vive;;33;1;O'Higgins;0;0
+64;masculino;Maule;positivo;vive;;64;1;Maule;1;0
+42;masculino;Nuble;negativo;vive;;42;1;Nuble;0;0
+40;femenino;Biobio;positivo;fallece;;40;0;Biobio;1;1
+73;femenino;Araucania;positivo;vive;;73;0;Araucania;1;0
+70;femenino;Los  Rios;positivo;vive;;70;0;Los  Rios;1;0
+70;masculino;Los  Lagos;negativo;vive;;70;1;Los  Lagos;0;0
+66;masculino;Aysen;positivo;fallece;;66;1;Aysen;1;1
+46;femenino;Magallanes;positivo;fallece;;46;0;Magallanes;1;1
+52;masculino;Arica  y  Parinacota;positivo;vive;;52;1;Arica  y  Parinacota;1;0
+44;masculino;Tarapaca;negativo;vive;;44;1;Tarapaca;0;0
+77;masculino;Antofagasta;negativo;vive;;77;1;Antofagasta;0;0
+59;masculino;Atacama;positivo;fallece;;59;1;Atacama;1;1
+50;masculino;Coquimbo;negativo;vive;;50;1;Coquimbo;0;0
+19;masculino;Valparaiso;positivo;fallece;;19;1;Valparaiso;1;1
+23;masculino;Metropolitana;positivo;vive;;23;1;Metropolitana;1;0
+69;masculino;O'Higgins;negativo;vive;;69;1;O'Higgins;0;0
+22;masculino;Maule;positivo;fallece;;22;1;Maule;1;1
+43;femenino;Nuble;positivo;vive;;43;0;Nuble;1;0
+19;masculino;Biobio;negativo;vive;;19;1;Biobio;0;0
+34;femenino;Araucania;negativo;vive;;34;0;Araucania;0;0
+39;femenino;Los  Rios;positivo;fallece;;39;0;Los  Rios;1;1
+23;femenino;Los  Lagos;positivo;fallece;;23;0;Los  Lagos;1;1
+72;masculino;Aysen;positivo;vive;;72;1;Aysen;1;0
+47;masculino;Magallanes;positivo;fallece;;47;1;Magallanes;1;1
+34;masculino;Arica  y  Parinacota;negativo;vive;;34;1;Arica  y  Parinacota;0;0
+65;femenino;Tarapaca;positivo;fallece;;65;0;Tarapaca;1;1
+59;masculino;Antofagasta;negativo;vive;;59;1;Antofagasta;0;0
+34;masculino;Atacama;positivo;vive;;34;1;Atacama;1;0
+67;femenino;Coquimbo;negativo;vive;;67;0;Coquimbo;0;0
+52;masculino;Valparaiso;positivo;fallece;;52;1;Valparaiso;1;1
+75;femenino;Metropolitana;positivo;vive;;75;0;Metropolitana;1;0
+69;masculino;O'Higgins;negativo;vive;;69;1;O'Higgins;0;0
+33;femenino;Maule;negativo;vive;;33;0;Maule;0;0
+63;femenino;Nuble;negativo;vive;;63;0;Nuble;0;0
+48;femenino;Biobio;negativo;vive;;48;0;Biobio;0;0
+52;femenino;Araucania;positivo;fallece;;52;0;Araucania;1;1
+21;masculino;Los  Rios;positivo;fallece;;21;1;Los  Rios;1;1
+36;masculino;Los  Lagos;positivo;vive;;36;1;Los  Lagos;1;0
+38;masculino;Aysen;negativo;vive;;38;1;Aysen;0;0
+65;femenino;Magallanes;negativo;vive;;65;0;Magallanes;0;0
+30;femenino;Arica  y  Parinacota;positivo;fallece;;30;0;Arica  y  Parinacota;1;1
+35;femenino;Tarapaca;negativo;vive;;35;0;Tarapaca;0;0
+39;femenino;Antofagasta;positivo;fallece;;39;0;Antofagasta;1;1
+66;masculino;Atacama;positivo;vive;;66;1;Atacama;1;0
+54;femenino;Coquimbo;positivo;fallece;;54;0;Coquimbo;1;1
+26;femenino;Valparaiso;positivo;vive;;26;0;Valparaiso;1;0
+71;masculino;Metropolitana;negativo;vive;;71;1;Metropolitana;0;0
+53;femenino;O'Higgins;positivo;fallece;;53;0;O'Higgins;1;1
+43;masculino;Maule;positivo;vive;;43;1;Maule;1;0
+50;femenino;Nuble;positivo;fallece;;50;0;Nuble;1;1
+41;femenino;Biobio;positivo;fallece;;41;0;Biobio;1;1
+72;masculino;Araucania;positivo;fallece;;72;1;Araucania;1;1
+57;femenino;Los  Rios;negativo;vive;;57;0;Los  Rios;0;0
+49;masculino;Los  Lagos;negativo;vive;;49;1;Los  Lagos;0;0
+60;masculino;Aysen;positivo;fallece;;60;1;Aysen;1;1
+77;masculino;Magallanes;positivo;vive;;77;1;Magallanes;1;0
+47;femenino;Arica  y  Parinacota;negativo;vive;;47;0;Arica  y  Parinacota;0;0
+32;masculino;Tarapaca;positivo;vive;;32;1;Tarapaca;1;0
+40;femenino;Antofagasta;negativo;vive;;40;0;Antofagasta;0;0
+43;masculino;Atacama;positivo;fallece;;43;1;Atacama;1;1
+20;femenino;Coquimbo;positivo;vive;;20;0;Coquimbo;1;0
+33;masculino;Valparaiso;negativo;vive;;33;1;Valparaiso;0;0
+63;masculino;Metropolitana;positivo;fallece;;63;1;Metropolitana;1;1
+70;masculino;O'Higgins;negativo;vive;;70;1;O'Higgins;0;0
+53;masculino;Maule;positivo;fallece;;53;1;Maule;1;1
+74;masculino;Nuble;negativo;vive;;74;1;Nuble;0;0
+74;masculino;Biobio;negativo;vive;;74;1;Biobio;0;0
+79;masculino;Araucania;positivo;vive;;79;1;Araucania;1;0
+19;femenino;Los  Rios;negativo;vive;;19;0;Los  Rios;0;0
+21;femenino;Los  Lagos;positivo;fallece;;21;0;Los  Lagos;1;1
+41;femenino;Aysen;negativo;vive;;41;0;Aysen;0;0
+50;femenino;Magallanes;positivo;vive;;50;0;Magallanes;1;0
+57;femenino;Arica  y  Parinacota;positivo;fallece;;57;0;Arica  y  Parinacota;1;1
+33;masculino;Tarapaca;negativo;vive;;33;1;Tarapaca;0;0
+69;masculino;Antofagasta;negativo;vive;;69;1;Antofagasta;0;0
+57;femenino;Atacama;negativo;vive;;57;0;Atacama;0;0
+24;femenino;Coquimbo;negativo;vive;;24;0;Coquimbo;0;0
+30;femenino;Valparaiso;positivo;vive;;30;0;Valparaiso;1;0
+63;femenino;Metropolitana;positivo;fallece;;63;0;Metropolitana;1;1
+66;masculino;O'Higgins;negativo;vive;;66;1;O'Higgins;0;0
+23;masculino;Maule;positivo;fallece;;23;1;Maule;1;1
+20;femenino;Nuble;positivo;fallece;;20;0;Nuble;1;1
+63;masculino;Biobio;negativo;vive;;63;1;Biobio;0;0
+61;femenino;Araucania;negativo;vive;;61;0;Araucania;0;0
+38;masculino;Los  Rios;negativo;vive;;38;1;Los  Rios;0;0
+21;masculino;Los  Lagos;positivo;fallece;;21;1;Los  Lagos;1;1
+34;masculino;Aysen;negativo;vive;;34;1;Aysen;0;0
+33;masculino;Magallanes;negativo;vive;;33;1;Magallanes;0;0
+21;masculino;Arica  y  Parinacota;negativo;vive;;21;1;Arica  y  Parinacota;0;0
+80;masculino;Tarapaca;negativo;vive;;80;1;Tarapaca;0;0
+75;masculino;Antofagasta;positivo;vive;;75;1;Antofagasta;1;0
+57;femenino;Atacama;negativo;vive;;57;0;Atacama;0;0
+68;femenino;Coquimbo;positivo;vive;;68;0;Coquimbo;1;0
+43;femenino;Valparaiso;positivo;vive;;43;0;Valparaiso;1;0
+71;femenino;Metropolitana;negativo;vive;;71;0;Metropolitana;0;0
+68;femenino;O'Higgins;negativo;vive;;68;0;O'Higgins;0;0
+50;masculino;Maule;positivo;vive;;50;1;Maule;1;0
+58;masculino;Nuble;negativo;vive;;58;1;Nuble;0;0
+53;femenino;Biobio;negativo;vive;;53;0;Biobio;0;0
+80;femenino;Araucania;negativo;vive;;80;0;Araucania;0;0
+73;masculino;Los  Rios;positivo;fallece;;73;1;Los  Rios;1;1
+54;femenino;Los  Lagos;positivo;vive;;54;0;Los  Lagos;1;0
+27;masculino;Aysen;negativo;vive;;27;1;Aysen;0;0
+27;masculino;Magallanes;positivo;fallece;;27;1;Magallanes;1;1
+70;masculino;Arica  y  Parinacota;negativo;vive;;70;1;Arica  y  Parinacota;0;0
+54;masculino;Tarapaca;positivo;fallece;;54;1;Tarapaca;1;1
+43;femenino;Antofagasta;positivo;vive;;43;0;Antofagasta;1;0
+43;femenino;Atacama;positivo;vive;;43;0;Atacama;1;0
+23;femenino;Coquimbo;positivo;vive;;23;0;Coquimbo;1;0
+38;femenino;Valparaiso;positivo;fallece;;38;0;Valparaiso;1;1
+44;masculino;Metropolitana;positivo;vive;;44;1;Metropolitana;1;0
+77;masculino;O'Higgins;positivo;fallece;;77;1;O'Higgins;1;1
+64;femenino;Maule;positivo;vive;;64;0;Maule;1;0
+21;masculino;Nuble;positivo;fallece;;21;1;Nuble;1;1
+75;femenino;Biobio;negativo;vive;;75;0;Biobio;0;0
+74;femenino;Araucania;positivo;vive;;74;0;Araucania;1;0
+66;masculino;Los  Rios;negativo;vive;;66;1;Los  Rios;0;0
+63;masculino;Los  Lagos;positivo;vive;;63;1;Los  Lagos;1;0
+30;femenino;Aysen;negativo;vive;;30;0;Aysen;0;0
+65;masculino;Magallanes;negativo;vive;;65;1;Magallanes;0;0
+50;masculino;Arica  y  Parinacota;negativo;vive;;50;1;Arica  y  Parinacota;0;0
+20;femenino;Tarapaca;negativo;vive;;20;0;Tarapaca;0;0
+32;femenino;Antofagasta;negativo;vive;;32;0;Antofagasta;0;0
+56;masculino;Atacama;negativo;vive;;56;1;Atacama;0;0
+54;masculino;Coquimbo;negativo;vive;;54;1;Coquimbo;0;0
+34;masculino;Valparaiso;negativo;vive;;34;1;Valparaiso;0;0
+41;masculino;Metropolitana;positivo;fallece;;41;1;Metropolitana;1;1
+41;masculino;O'Higgins;negativo;vive;;41;1;O'Higgins;0;0
+51;femenino;Maule;positivo;fallece;;51;0;Maule;1;1
+38;masculino;Nuble;negativo;vive;;38;1;Nuble;0;0
+48;femenino;Biobio;negativo;vive;;48;0;Biobio;0;0
+23;femenino;Araucania;positivo;fallece;;23;0;Araucania;1;1
+26;femenino;Los  Rios;negativo;vive;;26;0;Los  Rios;0;0
+29;femenino;Los  Lagos;positivo;vive;;29;0;Los  Lagos;1;0
+44;masculino;Aysen;positivo;fallece;;44;1;Aysen;1;1
+40;femenino;Magallanes;negativo;vive;;40;0;Magallanes;0;0
+28;femenino;Arica  y  Parinacota;negativo;vive;;28;0;Arica  y  Parinacota;0;0
+36;masculino;Tarapaca;negativo;vive;;36;1;Tarapaca;0;0
+44;masculino;Antofagasta;negativo;vive;;44;1;Antofagasta;0;0
+48;femenino;Atacama;negativo;vive;;48;0;Atacama;0;0
+32;femenino;Coquimbo;negativo;vive;;32;0;Coquimbo;0;0
+70;femenino;Valparaiso;negativo;vive;;70;0;Valparaiso;0;0
+64;femenino;Metropolitana;positivo;fallece;;64;0;Metropolitana;1;1
+50;femenino;O'Higgins;positivo;fallece;;50;0;O'Higgins;1;1
+32;femenino;Maule;positivo;fallece;;32;0;Maule;1;1
+37;femenino;Nuble;positivo;fallece;;37;0;Nuble;1;1
+63;femenino;Biobio;negativo;vive;;63;0;Biobio;0;0
+54;femenino;Araucania;positivo;fallece;;54;0;Araucania;1;1
+77;masculino;Los  Rios;positivo;vive;;77;1;Los  Rios;1;0
+20;masculino;Los  Lagos;negativo;vive;;20;1;Los  Lagos;0;0
+69;masculino;Aysen;positivo;fallece;;69;1;Aysen;1;1
+75;masculino;Magallanes;negativo;vive;;75;1;Magallanes;0;0
+54;masculino;Arica  y  Parinacota;positivo;fallece;;54;1;Arica  y  Parinacota;1;1
+47;femenino;Tarapaca;positivo;fallece;;47;0;Tarapaca;1;1
+47;femenino;Antofagasta;negativo;vive;;47;0;Antofagasta;0;0
+73;masculino;Atacama;positivo;fallece;;73;1;Atacama;1;1
+40;masculino;Coquimbo;positivo;vive;;40;1;Coquimbo;1;0
+73;femenino;Valparaiso;negativo;vive;;73;0;Valparaiso;0;0
+46;masculino;Metropolitana;negativo;vive;;46;1;Metropolitana;0;0
+22;femenino;O'Higgins;positivo;vive;;22;0;O'Higgins;1;0
+76;femenino;Maule;positivo;fallece;;76;0;Maule;1;1
+53;femenino;Nuble;positivo;fallece;;53;0;Nuble;1;1
+44;masculino;Biobio;negativo;vive;;44;1;Biobio;0;0
+62;masculino;Araucania;positivo;fallece;;62;1;Araucania;1;1
+54;masculino;Los  Rios;positivo;vive;;54;1;Los  Rios;1;0
+45;femenino;Los  Lagos;positivo;fallece;;45;0;Los  Lagos;1;1
+30;masculino;Aysen;negativo;vive;;30;1;Aysen;0;0
+70;femenino;Magallanes;positivo;vive;;70;0;Magallanes;1;0
+64;masculino;Arica  y  Parinacota;positivo;fallece;;64;1;Arica  y  Parinacota;1;1
+19;masculino;Tarapaca;positivo;vive;;19;1;Tarapaca;1;0
+59;masculino;Antofagasta;positivo;fallece;;59;1;Antofagasta;1;1
+52;femenino;Atacama;positivo;fallece;;52;0;Atacama;1;1
+73;femenino;Coquimbo;negativo;vive;;73;0;Coquimbo;0;0
+43;femenino;Valparaiso;positivo;vive;;43;0;Valparaiso;1;0
+42;masculino;Metropolitana;negativo;vive;;42;1;Metropolitana;0;0
+33;masculino;O'Higgins;negativo;vive;;33;1;O'Higgins;0;0
+72;masculino;Maule;negativo;vive;;72;1;Maule;0;0
+34;femenino;Nuble;positivo;vive;;34;0;Nuble;1;0
+77;femenino;Biobio;positivo;vive;;77;0;Biobio;1;0
+71;masculino;Araucania;positivo;vive;;71;1;Araucania;1;0
+49;masculino;Los  Rios;negativo;vive;;49;1;Los  Rios;0;0
+34;femenino;Los  Lagos;positivo;vive;;34;0;Los  Lagos;1;0
+21;femenino;Aysen;positivo;fallece;;21;0;Aysen;1;1
+79;femenino;Magallanes;positivo;fallece;;79;0;Magallanes;1;1
+78;femenino;Arica  y  Parinacota;positivo;vive;;78;0;Arica  y  Parinacota;1;0
+22;femenino;Tarapaca;positivo;vive;;22;0;Tarapaca;1;0
+24;femenino;Antofagasta;negativo;vive;;24;0;Antofagasta;0;0
+55;masculino;Atacama;positivo;fallece;;55;1;Atacama;1;1
+38;femenino;Coquimbo;positivo;fallece;;38;0;Coquimbo;1;1
+40;masculino;Valparaiso;negativo;vive;;40;1;Valparaiso;0;0
+62;masculino;Metropolitana;positivo;fallece;;62;1;Metropolitana;1;1
+32;femenino;O'Higgins;positivo;vive;;32;0;O'Higgins;1;0
+29;masculino;Maule;negativo;vive;;29;1;Maule;0;0
+43;masculino;Nuble;negativo;vive;;43;1;Nuble;0;0
+74;masculino;Biobio;positivo;vive;;74;1;Biobio;1;0
+27;masculino;Araucania;negativo;vive;;27;1;Araucania;0;0
+26;femenino;Los  Rios;negativo;vive;;26;0;Los  Rios;0;0
+76;masculino;Los  Lagos;negativo;vive;;76;1;Los  Lagos;0;0
+24;femenino;Aysen;negativo;vive;;24;0;Aysen;0;0
+41;femenino;Magallanes;negativo;vive;;41;0;Magallanes;0;0
+69;femenino;Arica  y  Parinacota;positivo;vive;;69;0;Arica  y  Parinacota;1;0
+61;femenino;Tarapaca;negativo;vive;;61;0;Tarapaca;0;0
+35;femenino;Antofagasta;positivo;vive;;35;0;Antofagasta;1;0
+74;femenino;Atacama;negativo;vive;;74;0;Atacama;0;0
+52;femenino;Coquimbo;negativo;vive;;52;0;Coquimbo;0;0
+54;masculino;Valparaiso;negativo;vive;;54;1;Valparaiso;0;0
+67;femenino;Metropolitana;positivo;fallece;;67;0;Metropolitana;1;1
+51;femenino;O'Higgins;negativo;vive;;51;0;O'Higgins;0;0
+42;masculino;Maule;negativo;vive;;42;1;Maule;0;0
+74;masculino;Nuble;negativo;vive;;74;1;Nuble;0;0
+62;masculino;Biobio;positivo;vive;;62;1;Biobio;1;0
+28;femenino;Araucania;positivo;fallece;;28;0;Araucania;1;1
+23;masculino;Los  Rios;negativo;vive;;23;1;Los  Rios;0;0
+55;masculino;Los  Lagos;negativo;vive;;55;1;Los  Lagos;0;0
+49;femenino;Aysen;positivo;vive;;49;0;Aysen;1;0
+56;femenino;Magallanes;positivo;fallece;;56;0;Magallanes;1;1
+29;femenino;Arica  y  Parinacota;positivo;fallece;;29;0;Arica  y  Parinacota;1;1
+43;masculino;Tarapaca;negativo;vive;;43;1;Tarapaca;0;0
+47;femenino;Antofagasta;positivo;fallece;;47;0;Antofagasta;1;1
+32;masculino;Atacama;negativo;vive;;32;1;Atacama;0;0
+24;masculino;Coquimbo;negativo;vive;;24;1;Coquimbo;0;0
+66;masculino;Valparaiso;negativo;vive;;66;1;Valparaiso;0;0
+54;masculino;Metropolitana;positivo;vive;;54;1;Metropolitana;1;0
+66;masculino;O'Higgins;negativo;vive;;66;1;O'Higgins;0;0
+61;masculino;Maule;negativo;vive;;61;1;Maule;0;0
+33;femenino;Nuble;negativo;vive;;33;0;Nuble;0;0
+40;masculino;Biobio;positivo;vive;;40;1;Biobio;1;0
+37;masculino;Araucania;positivo;vive;;37;1;Araucania;1;0
+39;masculino;Los  Rios;negativo;vive;;39;1;Los  Rios;0;0
+78;femenino;Los  Lagos;negativo;vive;;78;0;Los  Lagos;0;0
